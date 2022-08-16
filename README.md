@@ -1,2 +1,2 @@
-# BootstrapCalismalar
-Some work using Bootstrap
+# TypeScriptCalismalar
+Some work using TypeScript
